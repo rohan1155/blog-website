@@ -24,3 +24,4 @@ This is a basic blog website created using Node.js.
 ## Composing Blog Posts
 
 Visit `http://localhost:3000/compose` to create new blog posts.
+
