@@ -6,12 +6,12 @@ This is a basic blog website created using Node.js.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-blog.git
+    git clone https://github.com/your-username/blog-website.git
     ```
 
 2. **Install Dependencies:**
     ```bash
-    cd your-blog
+    cd blog-website
     npm install
     ```
 
